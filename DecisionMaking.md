@@ -30,9 +30,9 @@ Specifically exempt are any endpoints in the / (root), /auth/ or /docs/ director
 ### Mechanical Changes
 A **mechanical change** is any change that alters the end behavior of the game itself. Most of these mechanical changes pertain either to the /auth/ API endpoints, or to `ringmaster` program.
 ### Simple Majority User Poll
-A **Simple Majority User Poll** is a poll of all users on the game, wherein each team gets a single yes/no/abstain vote. All votes from a team's users are tallied, and then cast as a team vote: yea (50%user+1), nay (50%user-1), or abstain (50%user). Such changes need only a simple majority of teams to approve the change (50%team+1). Abstentions are discarded as non-votes. The process for triggering a poll shall be agreed to in a separate document.
+A **Simple Majority User Poll** is a poll of all users on the game, wherein each team gets a single yes/no/abstain vote. All votes from a team's users are tallied, and then cast as a team vote: yea (50%user+1), nay (50%user-1), or abstain (50%user). Such changes need only a simple majority of teams to approve the change (50%team+1). Abstentions are discarded as non-votes. The process for triggering a poll shall be agreed to in a separate document. Prior to a game, this shall just be a poll where members of each team may vote and each team will get one vote to be determined by all players choosing to cast a vote on that team.
 ### Pre-Game
-The **pre-game** period shall be the period up to and including the first roll. Once the first roll has been made and confirmed by mautamu, the game shall have begun. The [timeline](timeline.md) shall supercede this document in regards to allowing changes.
+The **pre-game** period shall be the period up to and including the first roll. Once the first roll has been made and confirmed by the game moderators, the game shall have begun. The [timeline](Timeline.md) shall supercede this document in regards to allowing changes.
 
 
 ## Proposal Example
@@ -44,7 +44,7 @@ Author: Mautamu
 Co-Author: Moroniccow
 Cosigners: Moroniccow, Jyost17, SomeRedditUser
 Request: Change Rust Risk to allow users to signin using Reddit
-Linked Pull Request: [5](https://github.com/mautamu/Risk/pull/5) <!-- This can be empty -->
+Linked Pull Request: [5](https://github.com/CollegeFootballRisk/Risk/pull/5) <!-- This can be empty -->
 
 ## Rationale
 This is necessary to allow people to use the game. This is better than alternatives such as passwords, as it avoids having to store anything locally.
