@@ -2,7 +2,7 @@
 Author: Mautamu
 Co-Author: 
 Cosigners: 
-Request: Change Rust Risk to allow users to signin using Reddit
+Request: Remove triple-or-nothing for the first day and the playoffs
 Linked Pull Request:
 
 ## Rationale
