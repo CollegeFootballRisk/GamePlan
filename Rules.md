@@ -43,7 +43,7 @@ Side Quests:
 
 3.  **MVPs.** Once a territory has been assigned to an owner, a player on that territory who played for the winning team shall be selected to serve as the MVP for that team and territory pair. That player shall have their MVP count incremented by one. In the case that no players were placed on a territory, no MVPs will be assigned (e.g. a territory and its surrounding territories all owned by the same team prior to the roll).
     
-4.  **Triple or Nothing.** If a team controls only one territory, each player on that team may elect to triple-or-nothing their power if they are defending that territory. If that player is attacking or elects not to triple-or-nothing their power, then the multiplier will not be affected.
+4.  **Triple or Nothing.** If a team controls only one territory and it's neithe first day nor the playoffs, each player on that team may elect to triple-or-nothing their power if they are defending that territory. If that player is attacking or elects not to triple-or-nothing their power, then the multiplier will not be affected.
     
 5.  **Region Multipliers.** A team who owns a whole region will get a 2x multiplier for each region. These multipliers shall be cumulative (2, 4, 6).
     
