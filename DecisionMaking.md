@@ -18,7 +18,7 @@ This document defines the process by which the mechanics of the Summer Rust Risk
 ## Proposal Process
 The proposal process is a shortened RFC process, and can be used to change aspects of the game. It follows the following steps/phases:
 1. Original requestor (any one may make such a request) submits a pull request (someone may submit a pull request on behalf of other users) against this repository in /proposals/. The recommended proposal format is defined below. 
-2. If such a proposal is allowed, any three game moderators may together move the proposal to a Simple Majority User Poll for the next day by approving the PR into /proposals/. Such votes will be conducted on the game platform itself. Ten co-signers (who may simply state "cosign (reddit username)" on the pull request) may do similar. During the game, cosigners must have played at least one turn and not be labeled an alt.
+2. If such a proposal is allowed, any three game moderators may together move the proposal to a Simple Majority User Poll or Game Moderators Supermajority Poll, at their option, for the next day (or, before a game, at-will) by approving the PR into /proposals/. Such votes will be conducted on the game platform itself (or an alternative platform as suitable to the game moderators). Ten co-signers (who may simply state "cosign (reddit username)" on the pull request) may do similar. During the game, cosigners must have played at least one turn and not be labeled an alt.
 
 
 ## Definitions
@@ -29,6 +29,8 @@ An **API change** is any change that affects the /api/ of the Rust Risk applicat
 Specifically exempt are any endpoints in the / (root), /auth/ or /docs/ directories. 
 ### Mechanical Changes
 A **mechanical change** is any change that alters the end behavior of the game itself. Most of these mechanical changes pertain either to the /auth/ API endpoints, or to `ringmaster` program.
+### Game Moderators Supermajority Poll
+A **Game Moderators Supermajority Poll** is a poll of all game moderators. Such a poll shall require only 66.7%game moderator+1 to agree for passage. Abstentions are discarded as non-votes. 
 ### Simple Majority User Poll
 A **Simple Majority User Poll** is a poll of all users on the game, wherein each team gets a single yes/no/abstain vote. All votes from a team's users are tallied, and then cast as a team vote: yea (50%user+1), nay (50%user-1), or abstain (50%user). Such changes need only a simple majority of teams to approve the change (50%team+1). Abstentions are discarded as non-votes. The process for triggering a poll shall be agreed to in a separate document. Prior to a game, this shall just be a poll where members of each team may vote and each team will get one vote to be determined by all players choosing to cast a vote on that team.
 ### Pre-Game
