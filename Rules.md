@@ -47,7 +47,7 @@ Side Quests:
     
 5.  **Region Multipliers.** A team who owns a whole region will get a 2x multiplier for each region. These multipliers shall be cumulative (2, 4, 6).
     
-6.  **Elimination.** A team is eliminated when it no longer owns any territories. If a team is eliminated from the primary map, then that team shall spawn in a random location on the second map.
+6.  **Elimination.** A team is eliminated when it no longer owns any territories. If a team is eliminated from the primary map, then that team shall spawn in a random location on the second map. Once a team is eliminated from the secondary map, that team's members may individually join a team on either map.
     
 7.  **Star Power Specifics by Map.** On the primary map, star power shall not be limited by team or territory. On the secondary map, star power will be adjusted to 100 for each team. The team’s star power shall be distributed according to the proportion of star power assigned by that team’s players to each territory. For example, a team has ten players, with twenty star power to distribute, split across four different territories: A: 3, B: 12, C: 2, D: 3 star power. On the primary map, those would be the values assigned to each territory. On the secondary map, the distribution would instead be A: 15, B: 60, C: 10, D: 15 star power. In summary, on the first map, star power is a function of team size and experience, while on the second map, star power is set to 100 and distributed according to actual star power.
     
