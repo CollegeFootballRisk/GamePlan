@@ -1,7 +1,7 @@
 # Proposal Title: (No Triple-or-Nothing on Regular Season Day 1 or During Playoffs)
 Author: Mautamu
 Co-Author: rpM-22 (zinspector_tortoise)
-Cosigners: 
+Cosigners: ItalianReptar
 Request: Remove triple-or-nothing for the first day and the playoffs
 Linked Pull Request:
 
