@@ -18,6 +18,8 @@ Side Quests:
 -   Take over your state
     
 -   Keep home territory all regular season
+
+-   Whatever else your team cares about
     
 
 ## Setup
@@ -95,15 +97,15 @@ A player’s stars shall again be determined by five different categories: elimi
 -  Total Turns
     
 
-	A.  0 awards: 1 star
+	A.  0-9 turns: 1 star
 	    
-	B.  1 award: 2 stars
+	B.  10-24 turns: 2 stars
 	    
-	C.  2 awards: 3 stars
+	C.  25-49 turns: 3 stars
 	    
-	D.  3 awards: 4 stars
+	D.  50-99 turns: 4 stars
 	    
-	E.  4 awards+: 4 stars
+	E.  100+ turns+: 4 stars
     
 
 -  Season Turns
