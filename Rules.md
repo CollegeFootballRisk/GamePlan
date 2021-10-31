@@ -7,7 +7,7 @@ This Source Code Form is subject to the terms of the Mozilla Public License, v. 
 
 ## Objective
 
-To have as many territories as possible at the end of the regular season to make it to the playoffs season. The objective in the playoff season is to control all of the territories on your playoff map and therefore be the last team standing.
+To have as many territories as possible at the end of the regular season.
 
   
 
