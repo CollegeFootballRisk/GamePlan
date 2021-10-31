@@ -44,20 +44,18 @@ Side Quests:
     
 
 3.  **MVPs.** Once a territory has been assigned to an owner, a player on that territory who played for the winning team shall be selected to serve as the MVP for that team and territory pair. That player shall have their MVP count incremented by one. In the case that no players were placed on a territory, no MVPs will be assigned (e.g. a territory and its surrounding territories all owned by the same team prior to the roll).
+       
+4.  **Elimination.** A team is eliminated when it no longer owns any territories.
     
-4.  **Triple or Nothing.** If a team controls only one territory, each player on that team may elect to triple-or-nothing their power if they are defending that territory. If that player is attacking or elects not to triple-or-nothing their power, then the multiplier will not be affected.
-     
-5.  **Elimination.** A team is eliminated when it no longer owns any territories.
-    
-6.  **Ranking.** Rankings for the regular season shall be determined first by number of territories owned, then by number of days in the game.
+5.  **Ranking.** Rankings for the regular season shall be determined first by number of territories owned, then by number of days in the game.
 
-7.  **Kills.** If a player made a move on a territory owned by a team that is eliminated that turn, that player shall be given a "kill". 
+6.  **Kills.** If a player made a move on a territory owned by a team that is eliminated that turn, that player shall be given a "kill". 
 
-8.  **Chaos.** Players who do not choose to align themselves with one of the FBS teams can instead choose to join Chaos. Unlike other teams, Chaos players will not receive a defense bonus but will be assigned a random attack multiplier for each turn (1-2).
+7.  **Chaos.** Players who do not choose to align themselves with one of the FBS teams can instead choose to join Chaos. Unlike other teams, Chaos players will not receive a defense bonus but will be assigned a random attack multiplier for each turn (1-2).
 
-9.  **Star Power.** The total star power for a player each turn will be (sum of bonuses) times (star number power); see below for star number.  
+8.  **Star Power.** The total star power for a player each turn will be (sum of bonuses) times (star number power); see below for star number.  
 
-10.  **Alts.** Alts are prohibited; players flagged as an alt will be warned, receive directions for remedy/contest, and receive a 0x multiplier.
+9.  **Alts.** Alts are prohibited; players flagged as an alt will be warned, receive directions for remedy/contest, and receive a 0x multiplier.
 
 ### Star
 
