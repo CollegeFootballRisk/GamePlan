@@ -57,7 +57,7 @@ Side Quests:
 
 9.  **Alts.** Alts are prohibited; players flagged as an alt will be warned, receive directions for remedy/contest, and receive a 0x multiplier.
 
-10. **Triple or Nothing.** If a team controls only one territory, each player on that team may elect to triple-or-nothing their power if they are defending that territory. If that player is attacking or elects not to triple-or-nothing their power, then the multiplier will not be affected.
+10. **Triple or Nothing.** If a team controls only one territory, each player on that team may elect to triple-or-nothing their power if they are defending that territory. If that player is attacking or elects not to triple-or-nothing their power, then the multiplier will not be affected. This shall not be available during the first day.
 
 ### Star
 
