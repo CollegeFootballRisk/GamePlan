@@ -1,5 +1,5 @@
 
-# College Risk Rules
+# College Empires Rules
 
 *As drafted by Mautamu ‘21 from CFBR2/AR3 rules; October 2021. Portions from “Rust Risk Guide” by Avocado ‘18 and TxAg70 ‘17*
 
@@ -59,7 +59,7 @@ Side Quests:
 
 ### Star
 
-A player’s stars shall again be determined by five different categories: eliminated teams, streak, total turns in all college football risk games, total turns in this season, total number of MVPs in all college football risk games. The user’s star number (for determining star power) shall be determined according to the median value of stars for each category, where the star values for each category are as follows:
+A player’s stars shall again be determined by five different categories: eliminated teams, streak, total turns in all college football risk/empires games, total turns in this season, total number of MVPs in all college football risk/empires games. The user’s star number (for determining star power) shall be determined according to the median value of stars for each category, where the star values for each category are as follows:
 
 -  Kills
     
