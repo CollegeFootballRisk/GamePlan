@@ -7,7 +7,7 @@ This Source Code Form is subject to the terms of the Mozilla Public License, v. 
 
 ## Objective
 
-To have as many territories as possible at the end of the regular season to make it to the playoffs season. The objective in the playoff season is to control all of the territories on your playoff map and therefore be the last team standing.
+To have as many territories as possible at the end of the regular season.
 
   
 
@@ -18,6 +18,8 @@ Side Quests:
 -   Take over your state
     
 -   Keep home territory all regular season
+
+-   Whatever else your team cares about
     
 
 ## Setup
@@ -31,7 +33,7 @@ Side Quests:
 
 ## Gameplay
 
-1.  **Turns.** Each team player shall be able to submit a single turn for each round. The player may attack any unowned territory immediately adjacent to a territory that the player's team owns. The player may also defend any attackable territory owned by the player’s team. For defending a territory, the player shall receive a 1.5x defense bonus.
+1.  **Turns.** Each team player shall be able to submit a single turn for each round. The player may attack any unowned territory immediately adjacent to a territory that the player's team owns. The player may also defend any attackable territory owned by the player’s team. For defending a territory, the player shall receive a 1.5x (which is 50%) defense bonus.
     
 2.  **Rolls.** At 22:00 U.S. Central Standard Time on every day but Sunday, a new round shall begin. This shall consist of the Rust Risk program deciding the owner of each territory according to the following plan:
     
@@ -42,30 +44,26 @@ Side Quests:
     
 
 3.  **MVPs.** Once a territory has been assigned to an owner, a player on that territory who played for the winning team shall be selected to serve as the MVP for that team and territory pair. That player shall have their MVP count incremented by one. In the case that no players were placed on a territory, no MVPs will be assigned (e.g. a territory and its surrounding territories all owned by the same team prior to the roll).
+       
+4.  **Elimination.** A team is eliminated when it no longer owns any territories.
     
-4.  **Triple or Nothing.** If a team controls only one territory and it's neither first day nor the playoffs, each player on that team may elect to triple-or-nothing their power if they are defending that territory. If that player is attacking or elects not to triple-or-nothing their power, then the multiplier will not be affected.
-    
-5.  **Region Multipliers.** A team who owns a whole region will get a 2x multiplier for each region. These multipliers shall be cumulative (2, 4, 6).
-    
-6.  **Elimination.** A team is eliminated when it no longer owns any territories. If a team is eliminated from the primary map, then that team shall spawn in a random location on the second map. Once a team is eliminated from the secondary map, that team's members may individually join a team on either map.
-    
-7.  **Star Power Specifics by Map.** On the primary map, star power shall not be limited by team or territory. On the secondary map, star power will be adjusted to 100 for each team. The team’s star power shall be distributed according to the proportion of star power assigned by that team’s players to each territory. For example, a team has ten players, with twenty star power to distribute, split across four different territories: A: 3, B: 12, C: 2, D: 3 star power. On the primary map, those would be the values assigned to each territory. On the secondary map, the distribution would instead be A: 15, B: 60, C: 10, D: 15 star power. In summary, on the first map, star power is a function of team size and experience, while on the second map, star power is set to 100 and distributed according to actual star power.
-    
-8.  **Ranking.** Rankings for the regular season shall be determined first by number of territories owned, then by number of days in the game.
-    
-9.  **Playoffs.** At the end of the regular season, teams will be grouped into fours by ranking on both the primary and secondary map and placed on identical smaller maps comprising 21 territories (one territory will not be occupied, all others will be split evenly). For example, the top two teams on the primary map will be paired with the top two teams on the secondary map. Each day, four territories will be removed from the playoff maps at random. These will be the same territories across all playoff maps. Each team will receive 100 star power to distribute according to the “secondary map” rules. The winner will be determined by the team with the last remaining territory on each map (the playoff ends when one team controls the entire map). The order of all other teams will be determined by the length of tenure on the playoff map, and then by number of territories on the day they were eliminated on the playoff map (backtracking until the tie is broken).
-	1. All teams who are not eliminated on both primary and secondary maps shall be eligible for playoffs. The bottom teams without pairs shall be selected in groups of four until no longer feasible. If not divisible by four, the remainder teams shall be placed on a playoff map with extra unclaimed territories. 
+5.  **Ranking.** Rankings for the regular season shall be determined first by number of territories owned, then by number of days in the game.
 
-10. **Eliminated Teams.** If a player made a move on a territory owned by a team that is eliminated that turn, that player shall be given an "Eliminated Teams" point. 
-    
- 
-  
+6.  **Kills.** If a player made a move on a territory owned by a team that is eliminated that turn, that player shall be given a "kill". 
 
-### Stars
+7.  **Chaos.** Players who do not choose to align themselves with one of the FBS teams can instead choose to join Chaos. Unlike other teams, Chaos players will not receive a defense bonus but will be assigned a random attack multiplier for each turn (1-2).
+
+8.  **Star Power.** The total star power for a player each turn will be (sum of bonuses) times (star number power); see below for star number.  
+
+9.  **Alts.** Alts are prohibited; players flagged as an alt will be warned, receive directions for remedy/contest, and receive a 0x multiplier.
+
+10. **Triple or Nothing.** If a team controls only one territory, each player on that team may elect to triple-or-nothing their power if they are defending that territory. If that player is attacking or elects not to triple-or-nothing their power, then the multiplier will not be affected.
+
+### Star
 
 A player’s stars shall again be determined by five different categories: eliminated teams, streak, total turns in all college football risk games, total turns in this season, total number of MVPs in all college football risk games. The user’s star number (for determining star power) shall be determined according to the median value of stars for each category, where the star values for each category are as follows:
 
--  Eliminated Teams
+-  Kills
     
 	A.  0 eliminated teams: 1 star
     
@@ -95,15 +93,15 @@ A player’s stars shall again be determined by five different categories: elimi
 -  Total Turns
     
 
-	A.  0 awards: 1 star
+	A.  0-9 turns: 1 star
 	    
-	B.  1 award: 2 stars
+	B.  10-24 turns: 2 stars
 	    
-	C.  2 awards: 3 stars
+	C.  25-49 turns: 3 stars
 	    
-	D.  3 awards: 4 stars
+	D.  50-99 turns: 4 stars
 	    
-	E.  4 awards+: 4 stars
+	E.  100+ turns+: 4 stars
     
 
 -  Season Turns
@@ -136,17 +134,17 @@ A player’s stars shall again be determined by five different categories: elimi
 
   
 
-The total star power each player shall receive will be according to the star number (median for each of the above categories) and the assignments below:
+The star number power each player shall receive will be according to the star number (median for each of the above categories) and the assignments below:
 
 -  1 star: 1 point
     
--  2 stars: 3 points
+-  2 stars: 2 points
     
--  3 stars: 7 points
+-  3 stars: 6 points
     
--  4 stars: 9 points
+-  4 stars: 12 points
     
--  5 stars: 11 points
+-  5 stars: 24 points
     
 
   
@@ -180,4 +178,4 @@ Don’t:
     
 -   Offer bribes to people or otherwise act dishonestly.
     
--   Go recruit in person. Please cooperate with your city and state health officials in these uncertain times. Stay home and stay healthy.
+-   Recruit in person. Please cooperate with your city and state health officials in these uncertain times. Stay home and stay healthy.

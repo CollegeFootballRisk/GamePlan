@@ -3,6 +3,9 @@
 This document serves as a general timeline for the 2022 Rust Risk game (hereafter, game). Changes may be submitted by PR. Please keep it to ~1 change/PR. 
 
 ## Timeline
+- November 5: Proposals due by 17:00 Central for rules changes to go out in one major SMUP (poll) for all users.
+- November 12: Proposal must have enough co-signers by 17:00 Central to be listed for inclusion in the SMUP (poll) for all users. SMUP for the rule changes opens.
+- November 19: SMUP for the rule changes closes. 
 - January 1: Decision on whether this will be Aggie Risk Season 4 (hereafter, AR4) or College Football Risk Season 3 (hereafter, CFR3)
 - January 14: Moderator beta begins. Teams may open an issue on this GitHub or ping a mod on Discord for login information
 - January 21: Moderator beta ends
