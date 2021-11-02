@@ -51,7 +51,7 @@ Side Quests:
 
 6.  **Kills.** If a player made a move on a territory owned by a team that is eliminated that turn, that player shall be given a "kill". 
 
-7.  **Chaos.** Players who do not choose to align themselves with one of the FBS teams can instead choose to join Chaos. Unlike other teams, Chaos players will not receive a defense bonus but will be assigned a random attack multiplier for each turn chosen from the following equally-weighted set: {1, 1.25, 1.5, 1.75, 2}.
+7.  **Chaos.** Players who do not choose to align themselves with one of the FBS teams can instead choose to join Chaos. Unlike other teams, Chaos players will not receive a defense bonus but will be assigned as a team a random attack multiplier for each turn chosen from the following equally-weighted set: {1, 1.25, 1.5, 1.75, 2}.
 
 8.  **Star Power.** The total star power for a player each turn will be (sum of bonuses) times (star number power); see below for star number.  
 
