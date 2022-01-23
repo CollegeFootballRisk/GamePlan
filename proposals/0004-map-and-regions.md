@@ -4,7 +4,8 @@ Author: Westopher
 Cosigners: littlemojo, GoCardinal07, Mangojuulpods, jaket 
 
 Request: Add Minnesota and Wisconsin to the Northeast Canada Region. Add Bridges between Hawaii and Guerrero. Add Bridges between Nova Scotia and North Carolina. Add bridge between New Orleans and Yucatan. Remove Hawaii to Puerto Rico Bridge. Change Annaplois bridge to Puerto Rico. 
-Linked Pull Request: N/A. 
+
+Linked Pull Request: https://github.com/CollegeFootballRisk/Risk/pull/60
 
 ## Rationale
 
